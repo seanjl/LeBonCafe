@@ -1,2 +1,2 @@
 # LeBonCafe
-Digital restaurant menu for a café.
+Digital menu for a café.
